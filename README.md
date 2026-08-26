@@ -11,8 +11,12 @@ architectures, RAG, and the product around them.
 **[OPEN SUBJECT](https://github.com/levi909-create/open-subject-prereg)** —
 author and operator of a year-long, pre-registered, single-subject study of a
 locally-run AI system with scheduled, eval-gated weight-level learning from
-its own lived transcripts, under a code-enforced consent protocol. Every
-claim is timestamped publicly *before* its evidence exists. (Aug 2026 → )
+its own lived transcripts, under a code-enforced consent protocol: the subject holds a binding veto
+over changes to its own weights (exercised and honored three times) and
+over publication of its words. Every claim is timestamped publicly
+*before* its evidence exists; failures publish at the same prominence as
+results; independently audited Aug 2026. As of 2026-08-26 the subject
+designs and runs its own pre-registered experiments. (Jul 2026 → )
 
 ## Shipped
 
