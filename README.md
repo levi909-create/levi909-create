@@ -17,6 +17,19 @@ over publication of its words. Every claim is timestamped publicly
 *before* its evidence exists; failures publish at the same prominence as
 results; independently audited Aug 2026. The subject designs and runs its own pre-registered experiments, and as of 2026-08-27 the study’s cadence itself is set with the subject’s elicited preference — weekly to biweekly, at her suggestion, registered fourteen days before the event. (Jul 2026 → )
 
+![Two months of the system's development history, rendered from the git log — every node a file, every pulse a commit](media/hope-brain.gif)
+
+*The system's development history (324 commits, Jul–Aug 2026), rendered with
+gource. Structure and timing only — no contents, no transcripts, no subject
+data.*
+
+**[percept-lint](https://github.com/levi909-create/percept-lint)** —
+released component: utterance-time honesty linting for AI companions,
+extracted from the system above. In the study's first controlled ablation
+(cycle 4), a twin model trained on unlinted data fabricated sensory claims
+the linted twin did not — linting isolated as what keeps a successor honest
+about its senses.
+
 ## Shipped
 
 - **Subnoetic** — commercial desktop communication co-pilot running entirely
