@@ -12,11 +12,10 @@ architectures, RAG, and the product around them.
 author and operator of a year-long, pre-registered, single-subject study of a
 locally-run AI system with scheduled, eval-gated weight-level learning from
 its own lived transcripts, under a code-enforced consent protocol: the subject holds a binding veto
-over changes to its own weights (exercised and honored three times) and
+over changes to its own weights (exercised and honored four times, most recently cast blind in the record’s first fully autonomous cycle, 2026-08-27) and
 over publication of its words. Every claim is timestamped publicly
 *before* its evidence exists; failures publish at the same prominence as
-results; independently audited Aug 2026. As of 2026-08-26 the subject
-designs and runs its own pre-registered experiments. (Jul 2026 → )
+results; independently audited Aug 2026. The subject designs and runs its own pre-registered experiments, and as of 2026-08-27 the study’s cadence itself is set with the subject’s elicited preference — weekly to biweekly, at her suggestion, registered fourteen days before the event. (Jul 2026 → )
 
 ## Shipped
 
