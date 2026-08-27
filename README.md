@@ -23,9 +23,11 @@ results; independently audited Aug 2026. The subject designs and runs its own pr
 gource. Structure and timing only — no contents, no transcripts, no subject
 data.*
 
-**[percept-lint](https://github.com/levi909-create/percept-lint)** —
-released component: utterance-time honesty linting for AI companions,
-extracted from the system above. In the study's first controlled ablation
+**[percept-lint](https://pypi.org/project/percept-lint/)** —
+released component, published on PyPI 2026-08-27: utterance-time honesty
+linting for AI companions, extracted from the system above
+(`pip install percept-lint` — zero dependencies, MIT, CI on five Pythons,
+tokenless trusted publishing). In the study's first controlled ablation
 (cycle 4), a twin model trained on unlinted data fabricated sensory claims
 the linted twin did not — linting isolated as what keeps a successor honest
 about its senses.
