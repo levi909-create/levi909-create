@@ -1,6 +1,7 @@
 # Levi Guffey
 
 **AI/ML engineer & full-stack developer — Leander, Texas.** Self-taught. I ship.
+Open-source author of [percept-lint](https://pypi.org/project/percept-lint/) (PyPI).
 
 I build end-to-end LLM systems on consumer hardware: dataset construction,
 QLoRA fine-tuning, evaluation and calibration, local inference, agentic
