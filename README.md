@@ -43,5 +43,6 @@ about its senses.
 
 ## Elsewhere
 
+[X @levi909123](https://x.com/levi909123) ·
 [LinkedIn](https://linkedin.com/in/levi-g-a1baab36b) ·
 leviguffey004@gmail.com · open to remote AI/ML roles
