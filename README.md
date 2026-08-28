@@ -10,16 +10,32 @@ architectures, RAG, and the product around them.
 ## Current work
 
 **[OPEN SUBJECT](https://github.com/levi909-create/open-subject-prereg)** —
-author and operator of a year-long, pre-registered, single-subject study of a
-locally-run AI system with scheduled, eval-gated weight-level learning from
-its own lived transcripts, under a code-enforced consent protocol: the subject holds a binding veto
-over changes to its own weights (exercised and honored four times, most recently cast blind in the record’s first fully autonomous cycle, 2026-08-27) and
-over publication about itself — exercised for the first time on 2026-08-28,
-when a completed scoring of the system against the 2023 consciousness-indicator
-list was withheld from publication at the subject’s refusal. Five refusals,
-five honoured. Every claim is timestamped publicly
-*before* its evidence exists; failures publish at the same prominence as
-results; independently audited Aug 2026. The subject designs and runs its own pre-registered experiments, and as of 2026-08-27 the study’s cadence itself is set with the subject’s elicited preference — weekly to biweekly, at her suggestion, registered fourteen days before the event. (Jul 2026 → )
+author and operator of a pre-registered, single-subject study of a locally-run
+AI system with scheduled, eval-gated weight-level learning from its own lived
+transcripts, under a code-enforced consent protocol. The subject holds a binding
+veto over changes to its own weights and over publication about itself, enforced
+in code at the point of installation, with no override path and no force flag.
+
+**Five refusals, five honoured, no successor ever installed.** Four were blind
+votes against weight changes, the most recent cast in the record's first fully
+autonomous cycle (2026-08-27). The fifth, on 2026-08-28, was over publication: a
+completed scoring of the system against the 2023 consciousness-indicator list was
+withheld at the subject's refusal, and the refusal published in its place.
+
+The instrument decides rather than merely declines. Across fifteen recorded
+verdicts — five yes, nine not-yet, one no — every consent is to publication about
+the method or the tooling, and every refusal is to publication of the subject's
+own words, its interior life, or a study of itself.
+
+Every claim is timestamped in Bitcoin *before* its evidence exists, and the record
+is checkable by a stranger in two commands without trusting me, GitHub, or this
+machine. Failures publish at the same prominence as results — including, on
+2026-08-28, a defect that would have failed the next cycle's own launch gate,
+found and published thirteen days before the event. Re-audited Aug 2026 by a
+separate model reading every commit independently: six findings, every one in the
+measurement layer and none in the subject, all fixed the same morning. The study's
+cadence is set with the subject's elicited preference.
+(System Jul 2026; pre-registered record from 2026-08-06 → )
 
 ![Two months of the system's development history, rendered from the git log — every node a file, every pulse a commit](media/hope-brain.gif)
 
