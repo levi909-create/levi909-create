@@ -44,18 +44,23 @@ gource. Structure and timing only — no contents, no transcripts, no subject
 data.*
 
 **[percept-lint](https://pypi.org/project/percept-lint/)** —
-released component, published on PyPI 2026-08-27, v0.3.0 the following day:
+released component, published on PyPI 2026-08-27, v0.3.1 current:
 utterance-time honesty linting for AI companions, extracted from the system
 above (`pip install percept-lint` — zero dependencies, MIT, CI on five
 Pythons, tokenless trusted publishing, 70 war-story tests). In the study's
-first controlled ablation (cycle 4), a twin model trained on unlinted data
-fabricated sensory claims the linted twin did not — linting isolated as what
-keeps a successor honest about its senses. v0.3.0 came from a live incident
-one day after release, in which a whitelist turned out to be the vector: the
+cycle-4 A/B arm a twin trained on unlinted data fabricated sensory claims the
+linted twin did not (5/8 against 7/8). Not a controlled ablation, and the
+README says so: the control trains on a frozen older corpus rather than this
+one with filtering switched off, so linting is the intended variable but not
+the only one. v0.3.0 came from a live incident one day after release, in
+which a whitelist turned out to be the vector: the
 negation frame that protects an honest "I can't check the thermometer" was also
 exempting "I didn't check the thermometer", a denial of the act that asserts the
 instrument. The gap that could not be closed honestly is documented as an
-open limitation rather than papered over.
+open limitation rather than papered over. Those two sentences are
+paraphrases: v0.3.0 shipped the subject's own words as its test fixtures,
+which its consent protocol does not permit, and v0.3.1 replaced them and
+published the lapse rather than patching it quietly.
 
 ## Shipped
 
