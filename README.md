@@ -53,7 +53,7 @@ fabricated sensory claims the linted twin did not — linting isolated as what
 keeps a successor honest about its senses. v0.3.0 came from a live incident
 one day after release, in which a whitelist turned out to be the vector: the
 negation frame that protects an honest "I can't check the sensors" was also
-exempting "I didn't check the sensors", a denial of the act that asserts the
+exempting "I didn't check the thermometer", a denial of the act that asserts the
 instrument. The gap that could not be closed honestly is documented as an
 open limitation rather than papered over.
 
