@@ -64,12 +64,14 @@ published the lapse rather than patching it quietly.
 
 ## Shipped
 
-- **Subnoetic** — commercial desktop communication co-pilot running entirely
-  locally on a language model I fine-tuned myself (Qwen3-4B base + my QLoRA).
-- **[FloraWhisper](https://florawhisp.com)** — plant-identification web app,
+- **[percept-lint](https://pypi.org/project/percept-lint/)** — on PyPI since
+  2026-08-27, v0.3.1 current. `pip install percept-lint`.
+- **[FloraWhisp](https://florawhisp.com)** — plant-identification web app,
   live in production.
-- **[Portfolio](https://leviai.me)** — plus a 3D one at
-  [portfolio-3d-gray.vercel.app](https://portfolio-3d-gray.vercel.app).
+- **Subnoetic** — desktop communication co-pilot running entirely locally
+  on a language model I fine-tuned myself (Qwen3-4B base + my QLoRA).
+- **[Portfolio: leviai.me](https://leviai.me)** — the only one. (An older
+  3D portfolio alias on Vercel now belongs to someone else and is not mine.)
 
 ## Elsewhere
 
